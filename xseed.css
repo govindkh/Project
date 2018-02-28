@@ -51,11 +51,13 @@
 #loginForm input {
 	padding: 20px;
 	font-size: 14px;
-	width: 50%;
+	width: 95%;
 }
 
 #loginForm .inputGroup {
 	padding: 15px 0;
+	display: inline-block;
+    width: 49%;
 }
 
 .bottomText {
@@ -72,4 +74,8 @@
 	width: 20%;
 	font-size: 20px;
 	font-weight: bold;
+}
+
+.buttonWrap {
+	text-align: center;
 }
